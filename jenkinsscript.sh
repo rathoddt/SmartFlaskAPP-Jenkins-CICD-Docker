@@ -8,7 +8,8 @@ fi
 
 pyenv versions
 
-pyenv global 3.8.10
+pyenv global system
+#pyenv global 3.8.10
 #pyenv global 3.10.0
 python3 -m venv myenv
 source myenv/bin/activate
